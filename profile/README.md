@@ -1,8 +1,14 @@
+## 공지
 
-**Here are some ideas to get you started:**
+```
+@aucshow-wjb : 깃허브 환경설정을 조금 했음 관리자는 1명으로 남겨두던지 해서 본인 권한을 맴버로 내리주세요. (스스로 못 내림)
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## 브런치 네임 패턴
+
+>> main : 관리자의 인정이 필요(인정~~)
+
+>> feature/* : 선형적으로 브런치 생성 불가 ( 선형적인 구조의 경우 )
+
+자세한 사항은 관리자가 설정 보고 수정이 필요.
